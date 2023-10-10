@@ -1,0 +1,22 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+.venv
+venv/
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/integrate_django_mongodb.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
